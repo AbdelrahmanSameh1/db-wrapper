@@ -1,5 +1,5 @@
 {
-    "name": "db/fs10",
+    "name": "abdelrahman/db-wrapper",
     "description": "db wrapper",
     "type": "library",
     "license": "MIT",
