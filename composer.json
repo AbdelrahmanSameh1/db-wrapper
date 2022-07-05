@@ -1,0 +1,17 @@
+{
+    "name": "db/fs10",
+    "description": "db wrapper",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\Fs10\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Abdelrahman Sameh"
+        }
+    ],
+    "require": {}
+}
