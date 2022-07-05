@@ -10,7 +10,8 @@
     },
     "authors": [
         {
-            "name": "Abdelrahman Sameh"
+            "name": "Abdelrahman Sameh",
+            "email": "abdelrhmansameh92@gmail.com"
         }
     ],
     "require": {}
