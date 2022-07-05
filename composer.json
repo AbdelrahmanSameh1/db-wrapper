@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Itrax\\Fs10\\": "src/"
+            "main\\": "src"
         }
     },
     "authors": [
